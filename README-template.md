@@ -9,7 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/3column-preview-card-component-81H5uDOmYU)
-- Live Site URL: [Add live site URL here](https://thefacecolcard.netlify.app)
+- Live Site URL: [Add live site URL here](https://thefaceprevcard.vercel.app)
 
 ## My process
 
@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 - Semantic HTML5 markup
 - CSS custom properties
-- JavaScript
+- Flexbox
 
 ## Author
 
